@@ -1,4 +1,4 @@
-# Sparkify Project: Predicting Churn with Sparkify
+# Sparkify Project: Predicting Churn with Spark
 
 -------------------------------------------------------------------------------
 ![Sparkify Logo](./img/sparkify-img.png)
