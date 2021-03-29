@@ -36,6 +36,8 @@ The main findings of the data could be found on my Medium story here:
 [Medium Story](https://wisnumulya.medium.com/how-to-use-spark-to-predict-customer-churn-601099eb721e).
 And the detailed analysis could be found on the `Sparkify.ipynb` file.
 
+The link to the GitHub repo of this project is here: [https://github.com/WisnuMulya/sparkify-predicting-churn-project](https://github.com/WisnuMulya/sparkify-predicting-churn-project).
+
 ## Acknowledgements
 * [Udacity](https://www.udacity.com/): sparkify mini dataset
 
